@@ -7,13 +7,7 @@ ttc_project_context.md
 
 # Generated outputs (created when the notebook runs)
 Data/weather_toronto.csv
-Data/subway_powerbi.csv
-Data/subway_powerbi1.csv
-Data/subway_model_export.csv
-Data/subway_model_export_1.csv
-Data/subway_model_export_2.csv
-Data/bus_powerbi.csv
-Data/bus_model_export.csv
+Export/
 
 # Jupyter checkpoints
 .ipynb_checkpoints/
