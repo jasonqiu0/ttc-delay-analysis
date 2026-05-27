@@ -1,22 +1,21 @@
-# ── Files excluded from this repo ─────────────────────────────────────────
-# Old scratch work & internal planning docs
+
 scrap_subway.ipynb
 scrap_bus.ipynb
 subway_claude.ipynb
 ttc_project_context.md
 
-# Generated outputs (created when the notebook runs)
+
 Data/weather_toronto.csv
 Export/
 
-# Jupyter checkpoints
+
 .ipynb_checkpoints/
 
-# Python cache
+
 __pycache__/
 *.pyc
 *.pyo
 
-# OS files
+
 .DS_Store
 Thumbs.db
