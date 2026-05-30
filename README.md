@@ -72,7 +72,7 @@ The raw data had 206 rows with a null `Line` value. These were filled by mapping
 **Code typos**  
 Three typos were identified in the delay code column: `MUNCA` was corrected to `MUNOA`, `TUNCA` to `TUNOA`, and `TRNCA` to `TRNOA`.
 
-**Code descriptions **
+**Code descriptions**
 After correcting typos, each code was matched against the official subway delay codes lookup file (`ttc-subway-delay-codes.xlsx`) at a **99.6% match rate**. The remaining 0.4% of unmatched codes were assigned "Unknown" and retained since their delay values are valid.
 
 **Bound normalisation**  
